@@ -12,7 +12,7 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: callisto
-
+  startingView: minimal
 # Main content - An array of sections, each containing an array of items
 sections:
   - name: Media & Entertainment
