@@ -12,7 +12,7 @@
   layout: auto
   iconSize: small
   language: en
-  startingView: minimal
+
 pageInfo:
   title: Homelab
   description: Welcome to my Homelab.
