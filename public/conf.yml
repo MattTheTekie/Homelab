@@ -13,8 +13,8 @@
   iconSize: small
   language: en
 pageInfo:
-  title: Demo Homelab
-  description: Live Demo of Dashy
+  title: Homelab
+  description: Welcome to my Homelab.
   navLinks:
     - title: GitHub
       path: https://github.com/Lissy93/dashy
