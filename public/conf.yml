@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Homelab
-  description: Welcome to your new dashboard!
+  title: Tsuka's Home Lab
+  description: Welcome abroad!
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
@@ -194,7 +194,7 @@ sections:
         description: Cloud code editor
         icon: hl-code
         id: 5_1302_vscode
-  - name: Learn more about Dashy
+  - name: Server Status
     icon: fas fa-rocket
     displayData:
       collapsed: true
