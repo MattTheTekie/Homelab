@@ -175,6 +175,7 @@ sections:
         description: File storage and apps
         icon: hl-nextcloud
         id: 0_1302_nextcloud
+        url: https://cloud.disroot.org
       - title: BitWarden
         description: Password manager
         icon: hl-bitwarden
