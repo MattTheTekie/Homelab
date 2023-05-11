@@ -183,6 +183,10 @@ sections:
         id: 5_1162_brewpi
         url: https://github.com/jivoi/awesome-osint
         icon: si-osano
+      - title: Hacker Guide
+        description: Hacker Blog
+        icon: si-osano
+        url: https://www.hackers-arise.com/
   - name: Productivity
     icon: fas fa-bookmark
     items:
