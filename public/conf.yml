@@ -153,7 +153,7 @@ sections:
         icon: si-hackerone
         id: 0_1162_hackerone
         url: https://hackerone.com/opportunities/all
-      - title: Node-RED
+      - title: Showdan
         description: Showdan
         icon: hl-nodered
         id: 1_1162_nodered
