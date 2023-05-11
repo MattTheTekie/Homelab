@@ -236,4 +236,8 @@ sections:
         url: https://courvix.com/
         target: newtab
         id: 5_2073_demo
-      - type: apod
+      - type: clock
+  options:
+    timeZone: Europe/London
+    format: en-GB
+    hideDate: false
