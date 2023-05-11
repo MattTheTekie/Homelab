@@ -211,8 +211,6 @@ sections:
         description: Wololo
         icon: si-xbox
         url: https://wololo.net/
-      - title: David Bombal
-        de
   - name: Productivity
     icon: fas fa-bookmark
     items:
