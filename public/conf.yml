@@ -236,7 +236,8 @@ sections:
         url: https://courvix.com/
         target: newtab
         id: 5_2073_demo
-      - type: clock
+  widgets:      
+  - type: clock
   options:
     timeZone: Europe/London
     format: en-GB
