@@ -196,7 +196,7 @@ sections:
         url: https://bitwarden.com/
       - title: NeverInstall
         description: Free cloud based VM & Application deployment
-        icon: si-affine
+        icon: si-caffeine
         url: https://neverinstall.com/
       - title: Readarr
         description: E-reader app
