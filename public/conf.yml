@@ -189,6 +189,7 @@ sections:
         description: Password manager
         icon: hl-bitwarden
         id: 1_1302_bitwarden
+        url: https://bitwarden.com/
       - title: NeverInstall
         description: Free cloud based VM & Application deployment
         icon: si-affine
@@ -197,14 +198,17 @@ sections:
         description: E-reader app
         icon: hl-readarr
         id: 2_1302_readarr
+        url: https://readarr.com/
       - title: Wallabag
         description: Bookmark Manager
         icon: hl-wallabag
         id: 3_1302_wallabag
+        url: https://www.wallabag.it/en
       - title: ArchiveBox
         description: Archive Manager
         icon: hl-archivebox
         id: 4_1302_archivebox
+        url: https://archivebox.io
       - title: VS Code
         description: Cloud code editor
         icon: hl-code
