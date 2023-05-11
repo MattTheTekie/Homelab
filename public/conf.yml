@@ -170,10 +170,11 @@ sections:
         icon: hl-zigbee2mqtt
         id: 3_1162_zigbeemqtt
         url: https://dnsdumpster.com/
-      - title: Alarm Pi
-        description: IOT telegram-controlled alarm clock
-        icon: hl-alarmpi
+      - title: Ewasion
+        description: Google Dorks
+        icon: si-google
         id: 4_1162_alarmpi
+        url: https://ewasion.github.io/opendirectory-finder/
       - title: Brew Pi
         description: IOT brewery controller
         icon: hl-brewpi
