@@ -62,6 +62,7 @@ sections:
       - title: PlexRequests
         icon: hl-plexrequests
         id: 11_1956_plexrequests
+        url: https://www.reddit.com/r/SharePLEX/
   - name: Networking
     icon: fas fa-network-wired
     items:
