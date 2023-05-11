@@ -145,13 +145,14 @@ sections:
         description: System Statistics Aggregation with PromQL
         icon: hl-prometheus
         id: 5_1739_prometheus
-  - name: Home Control
-    icon: fas fa-house-signal
+  - name: Hacking
+    icon: si-hackaday
     items:
-      - title: Home Assistant
-        description: Smart home control
-        icon: hl-home-assistant
-        id: 0_1162_homeassistant
+      - title: HackerOne Bounties
+        description: HackerOne Bounties available.
+        icon: si-hackerone
+        id: 0_1162_hackerone
+        url: https://hackerone.com/opportunities/all
       - title: Node-RED
         description: Flow-based automation
         icon: hl-nodered
