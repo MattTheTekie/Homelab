@@ -203,6 +203,16 @@ sections:
         description: Hackaday
         icon: si-hackaday
         url: https://hackaday.com
+      - title: Acko
+        description: Acko
+        icon: si-book
+        url: https://acko.net/
+      - title: Wololo
+        description: Wololo
+        icon: si-xbox
+        url: https://wololo.net/
+      - title: David Bombal
+        de
   - name: Productivity
     icon: fas fa-bookmark
     items:
