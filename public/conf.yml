@@ -246,4 +246,7 @@ sections:
     icon: si-kubernetes
     widgets:
       - type: clock
+      - type: clock
+        options:
+          timeZone: America/Los_Angeles
       - type: apod
