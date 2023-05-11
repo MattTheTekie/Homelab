@@ -185,7 +185,7 @@ sections:
         icon: si-osano
       - title: Hacker Guide
         description: Hacker Blog
-        icon: si-osano
+        icon: si-hackernoon
         url: https://www.hackers-arise.com/
   - name: Productivity
     icon: fas fa-bookmark
