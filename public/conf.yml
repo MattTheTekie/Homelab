@@ -177,7 +177,6 @@ sections:
         url: https://ewasion.github.io/opendirectory-finder/
       - title: OSINT Tools
         description: OSINT Tools
-        icon: hl-brewpi
         id: 5_1162_brewpi
         url: https://github.com/jivoi/awesome-osint
         icon: si-osano
