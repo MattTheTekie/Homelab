@@ -200,7 +200,7 @@ sections:
         description: Cloud code editor
         icon: hl-code
         id: 5_1302_vscode
-        url: https://neverinstall.com/spaces/vscode
+        url: https://open.vscode.dev
   - name: Extras
     icon: fas fa-rocket
     displayData:
