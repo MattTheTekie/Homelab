@@ -76,14 +76,16 @@ sections:
         icon: hl-pihole
         id: 1_1064_pihole
         url: https://twingate.com
-      - title: MalTrail
-        description: Malicious traffic detection system
+      - title: Adguard DNS
+        description: Free custom DNS.
         icon: hl-router
         id: 2_1064_maltrail
-      - title: Ntopng
-        description: Network traffic probe + usage monitor
+        url: https://adguard-dns.io/en/welcome.html
+      - title: ZMAP
+        description: Scan the internet in 45 minutes!
         icon: hl-ntop
         id: 3_1064_ntopng
+        url: https://zmap.io/
       - title: Monit
         description: Status of firewall system alerts
         icon: hl-monit
