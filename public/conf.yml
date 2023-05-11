@@ -165,10 +165,11 @@ sections:
         icon: hl-octoprint
         id: 2_1162_octoprint
         url: https://search.censys.io
-      - title: Zigbee 2 Mqtt
-        description: Zigbee to MQTT
+      - title: DNSDumpster
+        description: DNS Recon
         icon: hl-zigbee2mqtt
         id: 3_1162_zigbeemqtt
+        url: https://dnsdumpster.com/
       - title: Alarm Pi
         description: IOT telegram-controlled alarm clock
         icon: hl-alarmpi
