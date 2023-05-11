@@ -65,14 +65,16 @@ sections:
   - name: Networking
     icon: fas fa-network-wired
     items:
-      - title: OPNSense
-        description: Firewall and network config
+      - title: Tailscale
+        description: Firewall and network VPN
         icon: hl-opnsense
         id: 0_1064_opnsense
-      - title: Pi-Hole
-        description: DNS ad-blocking
+        url: https://tailscale.com
+      - title: TwinGate
+        description: QUIC powered Tailscale alternative
         icon: hl-pihole
         id: 1_1064_pihole
+        url: https://twingate.com
       - title: MalTrail
         description: Malicious traffic detection system
         icon: hl-router
