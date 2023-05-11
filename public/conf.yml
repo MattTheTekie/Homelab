@@ -189,6 +189,10 @@ sections:
         description: Password manager
         icon: hl-bitwarden
         id: 1_1302_bitwarden
+      - title: NeverInstall
+        description: Free cloud based VM & Application deployment
+        icon: hl-bitwarden
+        url: https://neverinstall.com/
       - title: Readarr
         description: E-reader app
         icon: hl-readarr
