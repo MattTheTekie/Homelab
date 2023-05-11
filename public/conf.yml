@@ -223,12 +223,12 @@ sections:
       - title: FREEDOM-HQ!
         description: Welcome to the HQ!
         url: https://freedom-hq.github.io/FREEDOM-HQ/
-        icon: far fa-grin-hearts
+        icon: si-nintendo3ds
         id: 2_2073_showcase
       - title: N3RDP0RT4L-HQ!
         description: Welcome!
         url: https://n3rdp0rt4l-hq.gitlab.io/n3rdp0rt4l/
-        icon: fas fa-wrench
+        icon: si-apple
         id: 3_2073_configdocs
       - title: DCTheGamr
         description: DCTheGamr
