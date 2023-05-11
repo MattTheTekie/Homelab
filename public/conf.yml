@@ -237,7 +237,7 @@ sections:
         target: newtab
         id: 5_2073_demo
   - name: Widgets
-    icon: fas fa-rocket
+    icon: fas ferris-wheel
     widgets:
       - type: clock
       - type: apod
