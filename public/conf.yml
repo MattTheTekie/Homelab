@@ -191,7 +191,7 @@ sections:
         id: 1_1302_bitwarden
       - title: NeverInstall
         description: Free cloud based VM & Application deployment
-        icon: hl-bitwarden
+        icon: si-affine
         url: https://neverinstall.com/
       - title: Readarr
         description: E-reader app
