@@ -196,41 +196,41 @@ sections:
         description: Cloud code editor
         icon: hl-code
         id: 5_1302_vscode
-  - name: Server Status
+  - name: Extras
     icon: fas fa-rocket
     displayData:
       collapsed: true
     items:
       - title: GitHub
         description: Source Code, Issues and Pull Requests
-        url: https://github.com/lissy93/dashy
+        url: https://github.com/MattTheTekie
         icon: fab fa-github-alt
         id: 0_2073_github
-      - title: Docs
-        description: Configuring & Usage Documentation
+      - title: Blog
+        description: Welcome to my blog.
         provider: Dashy.to
         icon: far fa-book
-        url: https://dashy.to/docs
+        url: https://mattthetekie.github.io/MattTheTekie/
         id: 1_2073_docs
-      - title: Showcase
-        description: See how others are using Dashy
-        url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
+      - title: FREEDOM-HQ!
+        description: Welcome to the HQ!
+        url: https://freedom-hq.github.io/FREEDOM-HQ/
         icon: far fa-grin-hearts
         id: 2_2073_showcase
-      - title: Config Docs
-        description: See full list of configuration options
-        url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
+      - title: N3RDP0RT4L-HQ!
+        description: Welcome!
+        url: https://n3rdp0rt4l-hq.gitlab.io/n3rdp0rt4l/
         icon: fas fa-wrench
         id: 3_2073_configdocs
-      - title: Demo 2
-        description: Project management links for Dashy
+      - title: DCTheGamr
+        description: DCTheGamr
         icon: fas fa-sparkles
-        url: https://live.dashy.to/
+        url: https://dc-blog.neocities.org/
         target: newtab
         id: 4_2073_demo
-      - title: Demo 3
+      - title: LibreNetwork
         description: Live deployment of development env
         icon: far fa-sparkles
-        url: https://dev.dashy.to/
+        url: https://duckduckgo.com
         target: newtab
         id: 5_2073_demo
