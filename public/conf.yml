@@ -158,10 +158,11 @@ sections:
         icon: hl-nodered
         id: 1_1162_nodered
         url: https://www.shodan.io
-      - title: OctoPrint
-        description: 3D Printer Control
+      - title: Censys
+        description: Censys
         icon: hl-octoprint
         id: 2_1162_octoprint
+        url: https://search.censys.io
       - title: Zigbee 2 Mqtt
         description: Zigbee to MQTT
         icon: hl-zigbee2mqtt
