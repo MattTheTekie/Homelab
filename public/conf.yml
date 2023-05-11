@@ -228,9 +228,9 @@ sections:
         url: https://dc-blog.neocities.org/
         target: newtab
         id: 4_2073_demo
-      - title: LibreNetwork
+      - title: CourvixNetwork
         description: Live deployment of development env
         icon: far fa-sparkles
-        url: https://duckduckgo.com
+        url: https://courvix.com/
         target: newtab
         id: 5_2073_demo
