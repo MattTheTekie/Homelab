@@ -154,9 +154,10 @@ sections:
         id: 0_1162_hackerone
         url: https://hackerone.com/opportunities/all
       - title: Node-RED
-        description: Flow-based automation
+        description: Showdan
         icon: hl-nodered
         id: 1_1162_nodered
+        url: https://www.shodan.io
       - title: OctoPrint
         description: 3D Printer Control
         icon: hl-octoprint
