@@ -236,7 +236,7 @@ sections:
         url: https://courvix.com/
         target: newtab
         id: 5_2073_demo
-  - name:  Widgets
+  - name: Widgets
     icon: si-kubernetes
     widgets:
       - type: clock
