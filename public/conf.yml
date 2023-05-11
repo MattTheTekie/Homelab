@@ -195,6 +195,14 @@ sections:
         description: Hacker Training
         icon: si-tryhackme
         url: https://tryhackme.com/
+      - title: Hacking Guides
+        description: Help for Hacking
+        icon: si-reddit
+        url: https://www.reddit.com/r/hacking/wiki/index/
+      - title: Hackaday
+        description: Hackaday
+        icon: si-hackaday
+        url: https://hackaday.com
   - name: Productivity
     icon: fas fa-bookmark
     items:
@@ -270,6 +278,10 @@ sections:
         url: https://courvix.com/
         target: newtab
         id: 5_2073_demo
+      - title: Awesome Stuff
+        description: Awesomeness
+        icon: si-arch
+        url: https://github.com/sindresorhus/awesome
   - name: Widgets
     icon: si-kubernetes
     widgets:
