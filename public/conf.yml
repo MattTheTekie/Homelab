@@ -5,9 +5,9 @@ pageInfo:
   description: Welcome abroad!
   navLinks:
   - title: GitHub
-    path: https://github.com/Lissy93/dashy
-  - title: Documentation
-    path: https://dashy.to/docs
+    path: https://github.com/MattTheTekie
+  - title: devilutionX
+    path: https://github.com/diasurgical/devilutionX
 
 # Optional app settings and configuration
 appConfig:
@@ -25,6 +25,7 @@ sections:
       - title: Alltube
         icon: hl-alltube
         id: 0_1956_alltube
+        url: https://alltubedownload.peertube.uno
       - title: YT Downloads
         icon: hl-youtubedl
         id: 1_1956_ytdownloads
@@ -102,6 +103,7 @@ sections:
         description: Local network speed and latency test
         icon: hl-librespeed
         id: 2_1840_librespeed
+        url: https://librespeed.org
       - title: NetData
         description: Real-time system resource usage
         icon: hl-netdata
