@@ -175,10 +175,12 @@ sections:
         icon: si-google
         id: 4_1162_alarmpi
         url: https://ewasion.github.io/opendirectory-finder/
-      - title: Brew Pi
-        description: IOT brewery controller
+      - title: OSINT Tools
+        description: OSINT Tools
         icon: hl-brewpi
         id: 5_1162_brewpi
+        url: https://github.com/jivoi/awesome-osint
+        icon: si-osano
   - name: Productivity
     icon: fas fa-bookmark
     items:
