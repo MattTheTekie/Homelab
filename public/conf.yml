@@ -187,6 +187,14 @@ sections:
         description: Hacker Blog
         icon: si-hackernoon
         url: https://www.hackers-arise.com/
+      - title: HackTheBox
+        description: Free CTF Training
+        icon: si-hackthebox
+        url: https://www.hackthebox.com/
+      - title: TryHackMe
+        description: Hacker Training
+        icon: si-tryhackme
+        url: https://tryhackme.com/
   - name: Productivity
     icon: fas fa-bookmark
     items:
