@@ -50,6 +50,7 @@ sections:
       - title: FilePizza
         icon: hl-filepizza
         id: 8_1956_filepizza
+        url: https://file.pizza
       - title: Plex
         icon: hl-plex
         id: 9_1956_plex
