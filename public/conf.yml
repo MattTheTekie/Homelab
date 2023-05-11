@@ -236,4 +236,4 @@ sections:
         url: https://courvix.com/
         target: newtab
         id: 5_2073_demo
-  - type: apod
+      - type: apod
