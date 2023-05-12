@@ -108,14 +108,14 @@ sections:
         icon: si-hackerone
         id: 0_1162_hackerone
         url: https://hackerone.com/opportunities/all
-      - title: Showdan
-        description: Showdan
-        icon: hl-nodered
+      - title: Shodan
+        description: Shodan
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/ShoDan-1.jpg
         id: 1_1162_nodered
         url: https://www.shodan.io
       - title: Censys
         description: Censys
-        icon: hl-octoprint
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/icon.png
         id: 2_1162_octoprint
         url: https://search.censys.io
       - title: DNSDumpster
