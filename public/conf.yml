@@ -82,8 +82,8 @@ sections:
         id: 1_1064_pihole
         url: https://twingate.com
       - title: Adguard DNS
-        description: Free custom DNS.
-        icon: hl-router
+        description: Free custom DNS
+        icon: si-adguard
         id: 2_1064_maltrail
         url: https://adguard-dns.io/en/welcome.html
       - title: ZMAP
