@@ -46,6 +46,7 @@ sections:
         id: 6_1956_webtorrent
       - title: Airsonic
         icon: hl-airsonic
+        url: https://airsonic.github.io/
         id: 7_1956_airsonic
       - title: FilePizza
         icon: hl-filepizza
