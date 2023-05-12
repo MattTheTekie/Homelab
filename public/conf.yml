@@ -72,7 +72,7 @@ sections:
         url: https://tailscale.com
       - title: TwinGate
         description: QUIC powered Tailscale alternative
-        icon: hl-pihole
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/download%20(1).png
         id: 1_1064_pihole
         url: https://twingate.com
       - title: Adguard DNS
