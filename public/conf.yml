@@ -94,7 +94,7 @@ sections:
         description: Presence monitoring and ARP scanning
         icon: hl-alertmanager
         id: 5_1064_pialert 
-      - name: Hacking
+  - name: Hacking
     icon: si-hackaday
     items:
       - title: HackerOne Bounties
