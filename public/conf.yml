@@ -2,9 +2,7 @@
 # Page meta info, like heading, footer text and nav links
 pageInfo:
   title: Tsuka's Home Lab
-  description: Welcome abroad!
-
-
+  description: Welcome abroad! 
 # Optional app settings and configuration
 appConfig:
   theme: callisto
