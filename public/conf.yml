@@ -26,9 +26,10 @@ sections:
         icon: hl-alltube
         id: 0_1956_alltube
         url: https://alltubedownload.peertube.uno
-      - title: YT Downloads
+      - title: Invidious
         icon: hl-youtubedl
         id: 1_1956_ytdownloads
+        url: https://inv.riverside.rocks
       - title: Couch Potato
         icon: hl-couchpotato
         id: 2_1956_couchpotato
