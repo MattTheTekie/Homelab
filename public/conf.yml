@@ -30,7 +30,7 @@ sections:
         icon: hl-youtubedl
         id: 1_1956_ytdownloads
         url: https://inv.riverside.rocks
-        title: Odysee
+      - title: Odysee
         icon: is-odysee
         id: 1_1958_ytdownloads
         url: https://odysee.com/
