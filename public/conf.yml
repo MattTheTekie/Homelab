@@ -85,10 +85,11 @@ sections:
         icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/sqlogo.png
         id: 3_1064_ntopng
         url: https://zmap.io/
-      - title: Monit
-        description: Status of firewall system alerts
-        icon: hl-monit
+      - title: rpilocator
+        description: Find Raspberry Pi's
+        icon: si-raspberrypi
         id: 4_1064_monit
+        url: https://rpilocator.com/
       - title: PiAlert
         description: Presence monitoring and ARP scanning
         icon: hl-alertmanager
