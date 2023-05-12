@@ -242,7 +242,7 @@ sections:
         id: 5_2073_demo
       - title: Awesome Stuff
         description: Awesomeness
-        icon: si-arch
+        icon: si-awesomelists
         url: https://github.com/sindresorhus/awesome
   - name: Widgets
     icon: si-kubernetes
