@@ -93,64 +93,8 @@ sections:
       - title: PiAlert
         description: Presence monitoring and ARP scanning
         icon: hl-alertmanager
-        id: 5_1064_pialert
-  - name: Network Monitoring
-    icon: fas fa-tachometer-alt-fast
-    items:
-      - title: SmokePing
-        description: Network latency monitoring
-        icon: hl-smokeping
-        id: 0_1840_smokeping
-      - title: StatPing
-        description: Up-time monitoring for local service
-        icon: hl-statping
-        id: 1_1840_statping
-      - title: LibreSpeed
-        description: Local network speed and latency test
-        icon: hl-librespeed
-        id: 2_1840_librespeed
-        url: https://librespeed.org
-      - title: NetData
-        description: Real-time system resource usage
-        icon: hl-netdata
-        id: 3_1840_netdata
-      - title: Zabbix
-        description: IT Monitoring
-        icon: hl-zabbix
-        id: 4_1840_zabbix
-      - title: Cockpit
-        description: All-in-one control panel
-        icon: hl-cockpit
-        id: 5_1840_cockpit
-  - name: System Monitoring
-    icon: fas fa-monitor-heart-rate
-    items:
-      - title: cAdvisor
-        description: Container monitoring
-        icon: hl-cadvisor
-        id: 0_1739_cadvisor
-      - title: Glances
-        description: Simple resource usage
-        icon: hl-glances
-        id: 1_1739_glances
-      - title: Dozzle
-        description: Docker container web log viewer
-        icon: hl-dozzle
-        id: 2_1739_dozzle
-      - title: HealthChecks
-        description: Cron Job Monitoring
-        icon: hl-healthchecks
-        url: https://healthchecks.io/checks/
-        id: 3_1739_healthchecks
-      - title: Grafana
-        description: Data visualised on dashboards
-        icon: hl-grafana
-        id: 4_1739_grafana
-      - title: Prometheus
-        description: System Statistics Aggregation with PromQL
-        icon: hl-prometheus
-        id: 5_1739_prometheus
-  - name: Hacking
+        id: 5_1064_pialert 
+      - name: Hacking
     icon: si-hackaday
     items:
       - title: HackerOne Bounties
