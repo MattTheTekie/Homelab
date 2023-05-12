@@ -31,7 +31,7 @@ sections:
         id: 1_1956_ytdownloads
         url: https://inv.riverside.rocks
         title: Odysee
-        icon: hl-youtubedl
+        icon: is-odysee
         id: 1_1956_ytdownloads
         url: https://odysee.com/
       - title: Couch Potato
