@@ -35,6 +35,7 @@ sections:
       - title: Jellyfin
         icon: hl-jellyfin
         id: 3_1956_jellyfin
+        url: https://jellyfin.org/
       - title: FreshRSS
         icon: hl-freshrss
         url: https://rss.zdx.fr/i/
