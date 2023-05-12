@@ -21,7 +21,7 @@ sections:
         id: 0_1956_alltube
         url: https://alltubedownload.peertube.uno
       - title: Invidious
-        icon: hl-youtubedl
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/Invidious-Logo-1.png
         id: 1_1956_ytdownloads
         url: https://inv.riverside.rocks
       - title: Odysee
