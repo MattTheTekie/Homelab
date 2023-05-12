@@ -31,6 +31,7 @@ sections:
       - title: Couch Potato
         icon: hl-couchpotato
         id: 2_1956_couchpotato
+        url: https://couchpota.to/
       - title: Jellyfin
         icon: hl-jellyfin
         id: 3_1956_jellyfin
