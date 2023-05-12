@@ -82,7 +82,7 @@ sections:
         url: https://adguard-dns.io/en/welcome.html
       - title: ZMAP
         description: Scan the internet in 45 minutes!
-        icon: hl-ntop
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/sqlogo.png
         id: 3_1064_ntopng
         url: https://zmap.io/
       - title: Monit
