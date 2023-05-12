@@ -94,6 +94,7 @@ sections:
         description: Presence monitoring and ARP scanning
         icon: hl-alertmanager
         id: 5_1064_pialert 
+        url: https://github.com/pucherot/Pi.Alert
       - title: Cockpit
         description: All-in-one control panel
         icon: hl-cockpit
