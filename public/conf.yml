@@ -3,11 +3,7 @@
 pageInfo:
   title: Tsuka's Home Lab
   description: Welcome abroad!
-  navLinks:
-  - title: GitHub
-    path: https://github.com/MattTheTekie
-  - title: DevilutionX
-    path: https://github.com/diasurgical/devilutionX
+
 
 # Optional app settings and configuration
 appConfig:
