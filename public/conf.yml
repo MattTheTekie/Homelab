@@ -30,10 +30,10 @@ sections:
         icon: hl-youtubedl
         id: 1_1956_ytdownloads
         url: https://inv.riverside.rocks
-        title: Invidious
+        title: Odysee
         icon: hl-youtubedl
         id: 1_1956_ytdownloads
-        url: https://inv.riverside.rocks
+        url: https://odysee.com/
       - title: Couch Potato
         icon: hl-couchpotato
         id: 2_1956_couchpotato
