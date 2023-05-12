@@ -94,6 +94,11 @@ sections:
         description: Presence monitoring and ARP scanning
         icon: hl-alertmanager
         id: 5_1064_pialert 
+      - title: Cockpit
+        description: All-in-one control panel
+        icon: hl-cockpit
+        id: 5_1840_cockpit
+        url: https://cockpit-project.org
   - name: Hacking
     icon: si-hackaday
     items:
