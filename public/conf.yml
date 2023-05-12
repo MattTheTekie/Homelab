@@ -67,7 +67,7 @@ sections:
     items:
       - title: Tailscale
         description: Firewall and network VPN
-        icon: hl-opnsense
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/tailscale%20(1).png
         id: 0_1064_opnsense
         url: https://tailscale.com
       - title: TwinGate
