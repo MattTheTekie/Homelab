@@ -47,6 +47,7 @@ sections:
       - title: Web Torrent
         icon: hl-webtorrent
         id: 6_1956_webtorrent
+        url: https://webtorrent.io/
       - title: Airsonic
         icon: hl-airsonic
         url: https://airsonic.github.io/
