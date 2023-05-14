@@ -169,6 +169,10 @@ sections:
         description: Scrapes the DarkNet.
         icon: si-darkowl
         url: https://www.darkowl.com/
+      - title: Hunchly
+        description: OSINT web capture tool.
+        icon: si-hunchly
+        url: https://www.hunch.ly/
   - name: Productivity
     icon: fas fa-bookmark
     items:
