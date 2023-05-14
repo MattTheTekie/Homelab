@@ -188,7 +188,7 @@ sections:
         url: https://bitwarden.com/
       - title: NeverInstall
         description: Free cloud based VM & Application deployment
-        icon: si-caffeine
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/neverinstallMob.png
         url: https://neverinstall.com/
       - title: Readarr
         description: E-reader app
