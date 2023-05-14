@@ -43,6 +43,7 @@ sections:
       - title: Requestrr
         icon: hl-requestrr
         id: 5_1956_requestrr
+        url: https://github.com/darkalfx/requestrr
       - title: Web Torrent
         icon: hl-webtorrent
         id: 6_1956_webtorrent
