@@ -167,11 +167,11 @@ sections:
         url: https://wololo.net/
       - title: Darkowl
         description: Scrapes the DarkNet.
-        icon: si-darkowl
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/9XhlUsJx_400x400.png
         url: https://www.darkowl.com/
       - title: Hunchly
         description: OSINT web capture tool.
-        icon: si-hunchly
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/unnamed.webp
         url: https://www.hunch.ly/
   - name: Productivity
     icon: fas fa-bookmark
