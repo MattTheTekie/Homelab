@@ -143,6 +143,14 @@ sections:
         description: Phising reporting tool
         url: https://phish.report/
         icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/logo-CVCRUOYQ.png
+      - title: VirusTotal
+        description: Test files for malware
+        icon: si-virustotal
+        url: https://www.virustotal.com
+      - title: AnyRun
+        description: Test malware in a cloud VM for free
+        url: https://any.run
+        icon: https://any.run/img/logo.svg
       - title: Hacker's Arise
         description: Hacker's Arise
         icon: si-hackernoon
