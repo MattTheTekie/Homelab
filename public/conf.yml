@@ -139,6 +139,10 @@ sections:
         id: 5_1162_brewpi
         url: https://github.com/jivoi/awesome-osint
         icon: si-osano
+      - title: PhishReport
+        description: Phising reporting tool
+        url: https://phish.report/
+        icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/logo-CVCRUOYQ.png
       - title: Hacker's Arise
         description: Hacker's Arise
         icon: si-hackernoon
