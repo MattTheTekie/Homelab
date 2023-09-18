@@ -238,7 +238,7 @@ sections:
         description: Welcome to my blog.
         provider: Dashy.to
         icon: far fa-book
-        url: https://mattthetekie.github.io/MattTheTekie/
+        url: https://test72.eu.org/blog/
         id: 1_2073_docs
       - title: CrazyHellTechnologies!
         description: Welcome to the HQ!
