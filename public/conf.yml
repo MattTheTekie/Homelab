@@ -187,6 +187,10 @@ sections:
         description: OSINT web capture tool.
         icon: https://raw.githubusercontent.com/MattTheTekie/MattTheTekie/main/Personal-Scripts/Images/unnamed.webp
         url: https://www.hunch.ly/
+      - title: APK archive
+        description: Reverse engineering APK utilities, and more.
+        icon: si-android
+        url: https://sourceforge.net/projects/enuma/files/apks/
   - name: Productivity
     icon: fas fa-bookmark
     items:
